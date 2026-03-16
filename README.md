@@ -34,3 +34,6 @@ Design and simulation of an RC Wien Bridge Oscillator using OrCAD.
 ## DC Sweep
 
 ![DC Sweep](DC_Sweep.png)
+
+## PCB Layout
+![PCB Layout](layout_placa.jpg)
