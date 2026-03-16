@@ -68,6 +68,5 @@ Minimum frequency transient response:
 
 ## Author
 
-Vaicar Stefania-Andreea
-Electronics and Telecommunications Student
-University POLITEHNICA of Bucharest
+Electronics, Telecommunications and Information Technology Student
+National University of Science and Technology POLITEHNICA Bucharest
